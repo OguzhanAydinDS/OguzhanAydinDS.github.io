@@ -9,12 +9,20 @@ I am a Data Analytics Master's student at the Berlin School of Business and Inno
 
 ---
 
+### 📚 Education
+- **Master of Science in Data Analytics**  
+  Berlin School of Business and Innovation, Oct 2023 - Present
+- **Bachelor of Science in Industrial Engineering**  
+  Yaşar University, Oct 2018 - Jul 2022
+
+---
+
 ### 📂 Projects
 
 #### 1. House Price Prediction
 This project aims to predict house prices using a dataset from Kaggle and implementing various machine learning algorithms.
 
-- **Project Link**: [House Price Prediction](link_to_project)
+- **Project Link**: [House Price Prediction](https://github.com/OguzhanAydinDS/Data-Analytics/blob/main/house-price-prediction%20.ipynb)
 - **Technologies**: Python, Pandas, Scikit-Learn, Matplotlib
 - **Description**: Developed a regression model to predict prices based on house features. The model was evaluated using various error metrics.
 
@@ -46,3 +54,4 @@ An interactive dashboard analyzing retail sales data, developed using Tableau.
 - **Applied Machine Learning in Python** - Coursera  
 
 ---
+
