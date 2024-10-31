@@ -46,5 +46,3 @@ An interactive dashboard analyzing retail sales data, developed using Tableau.
 - **Applied Machine Learning in Python** - Coursera  
 
 ---
-
-This README provides a professional summary of your projects, skills, and contact information for your GitHub portfolio page.
