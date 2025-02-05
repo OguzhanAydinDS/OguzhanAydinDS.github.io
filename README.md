@@ -1,7 +1,7 @@
 # Oguzhan Aydin's Data Science Portfolio
 
 ## Welcome 👋
-I am a Data Analytics Master's student at the Berlin School of Business and Innovation with a background in industrial engineering, focused on leveraging data to drive business value. This GitHub page features examples of my work in data analytics, machine learning, and data visualization.
+I have completed my Master's degree in Data Analytics at the Berlin School of Business and Innovation with a background in industrial engineering. My thesis focused on credit scoring using machine learning. This GitHub page features examples of my work in data analytics, machine learning, and data visualization.
 
 ### 🔗 Social Media
 - **LinkedIn**: [Oguzhan Aydin](https://www.linkedin.com/in/oguzhan-aydin-ds/)
@@ -11,7 +11,7 @@ I am a Data Analytics Master's student at the Berlin School of Business and Inno
 
 ### 📚 Education
 - **Master of Science in Data Analytics**  
-  Berlin School of Business and Innovation, Oct 2023 - Present
+  Berlin School of Business and Innovation, Oct 2023 - Jan 2025
 - **Bachelor of Science in Industrial Engineering**  
   Yaşar University, Oct 2018 - Jul 2022
 
@@ -19,21 +19,14 @@ I am a Data Analytics Master's student at the Berlin School of Business and Inno
 
 ### 📂 Projects
 
-#### 1. House Price Prediction
-This project aims to predict house prices using a dataset from Kaggle and implementing various machine learning algorithms.
-
-- **Project Link**: [House Price Prediction](https://github.com/OguzhanAydinDS/Data-Analytics/blob/main/house-price-prediction%20.ipynb)
-- **Technologies**: Python, Pandas, Scikit-Learn, Matplotlib
-- **Description**: Developed a regression model to predict prices based on house features. The model was evaluated using various error metrics.
-
-#### 2. Disease Prediction Using Machine Learning
+#### 1. Disease Prediction Using Machine Learning
 A machine learning model successfully predicting diseases based on symptoms, achieving over 90% accuracy.
 
-- **Project Link**: [Disease Prediction](link_to_project)
+- **Project Link**: [Disease Prediction](https://medium.com/@oguzhanaydinDS/disease-type-prediction-using-machine-learning-f510ece046a6)
 - **Technologies**: Python, Pandas, Scikit-Learn
 - **Description**: Evaluated based on precision, recall, F1 score, and overall accuracy metrics.
 
-#### 3. Retail Sales Dashboard
+#### 2. Retail Sales Dashboard
 An interactive dashboard analyzing retail sales data, developed using Tableau.
 
 - **Project Link**: [Retail Sales Dashboard](link_to_project)
@@ -52,6 +45,3 @@ An interactive dashboard analyzing retail sales data, developed using Tableau.
 - **Big Data and Business Analytics Certificate** - ITU/Mindset Institute  
 - **Introduction to Data Science in Python** - Coursera  
 - **Applied Machine Learning in Python** - Coursera  
-
----
-
