@@ -1,7 +1,7 @@
 # Oguzhan Aydin's Data Science Portfolio
 
 ## Welcome 👋
-I have completed my Master's degree in Data Analytics at the Berlin School of Business and Innovation with a background in industrial engineering. My thesis focused on credit scoring using machine learning. This GitHub page features examples of my work in data analytics, machine learning, and data visualization.
+Results-driven Data Analytics professional with an Industrial Engineering background, seeking a full-time role in data analytics or machine learning. Holds a Master’s in Data Analytics with a thesis on machine learning for credit scoring, focusing on model performance and fairness. Passionate about data-driven problem-solving and business impact. This GitHub page showcases projects in data analytics, machine learning, and data visualization.
 
 ### 🔗 Social Media
 - **LinkedIn**: [Oguzhan Aydin](https://www.linkedin.com/in/oguzhan-aydin-ds/)
@@ -11,7 +11,8 @@ I have completed my Master's degree in Data Analytics at the Berlin School of Bu
 
 ### 📚 Education
 - **Master of Science in Data Analytics**  
-  Berlin School of Business and Innovation, Oct 2023 - Jan 2025
+  Berlin School of Business and Innovation, Oct 2023 - Mar 2025  
+  *Thesis: Evaluating Machine Learning Algorithms for Credit Scoring: Accuracy, Bias Mitigation, and Practical Trade-offs*  
 - **Bachelor of Science in Industrial Engineering**  
   Yaşar University, Oct 2018 - Jul 2022
 
